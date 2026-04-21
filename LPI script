@@ -23,7 +23,7 @@ local function forceDelete(obj)
 end
 
 local ScreenGui = Instance.new("ScreenGui", PlayerGui)
-ScreenGui.Name = "IslandGuard_Final_V9"
+ScreenGui.Name = "vulntest"
 ScreenGui.ResetOnSpawn = false
 
 local Main = Instance.new("Frame", ScreenGui)
